@@ -1,0 +1,6 @@
+{
+  "name": "CineMax Entertainment Group - Plataforma Corporativa de Cinema",
+  "description": "Plataforma integral de boletería digital B2C, control de accesos por escáner QR HMAC-SHA256, barra express KDS y administración centralizada de salas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
